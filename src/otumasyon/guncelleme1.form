@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JComboBox" name="gun">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="30">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+            <StringItem index="28" value="29"/>
+            <StringItem index="29" value="30"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="yil">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="120">
+            <StringItem index="0" value="1900"/>
+            <StringItem index="1" value="1901"/>
+            <StringItem index="2" value="1902"/>
+            <StringItem index="3" value="1903"/>
+            <StringItem index="4" value="1904"/>
+            <StringItem index="5" value="1905"/>
+            <StringItem index="6" value="1906"/>
+            <StringItem index="7" value="1907"/>
+            <StringItem index="8" value="1908"/>
+            <StringItem index="9" value="1909"/>
+            <StringItem index="10" value="1910"/>
+            <StringItem index="11" value="1911"/>
+            <StringItem index="12" value="1912"/>
+            <StringItem index="13" value="1913"/>
+            <StringItem index="14" value="1914"/>
+            <StringItem index="15" value="1915"/>
+            <StringItem index="16" value="1916"/>
+            <StringItem index="17" value="1917"/>
+            <StringItem index="18" value="1918"/>
+            <StringItem index="19" value="1919"/>
+            <StringItem index="20" value="1920"/>
+            <StringItem index="21" value="1921"/>
+            <StringItem index="22" value="1922"/>
+            <StringItem index="23" value="1923"/>
+            <StringItem index="24" value="1924"/>
+            <StringItem index="25" value="1925"/>
+            <StringItem index="26" value="1926"/>
+            <StringItem index="27" value="1927"/>
+            <StringItem index="28" value="1928"/>
+            <StringItem index="29" value="1929"/>
+            <StringItem index="30" value="1930"/>
+            <StringItem index="31" value="1931"/>
+            <StringItem index="32" value="1932"/>
+            <StringItem index="33" value="1933"/>
+            <StringItem index="34" value="1934"/>
+            <StringItem index="35" value="1935"/>
+            <StringItem index="36" value="1936"/>
+            <StringItem index="37" value="1937"/>
+            <StringItem index="38" value="1938"/>
+            <StringItem index="39" value="1939"/>
+            <StringItem index="40" value="1940"/>
+            <StringItem index="41" value="1941"/>
+            <StringItem index="42" value="1942"/>
+            <StringItem index="43" value="1943"/>
+            <StringItem index="44" value="1944"/>
+            <StringItem index="45" value="1945"/>
+            <StringItem index="46" value="1946"/>
+            <StringItem index="47" value="1947"/>
+            <StringItem index="48" value="1948"/>
+            <StringItem index="49" value="1949"/>
+            <StringItem index="50" value="1950"/>
+            <StringItem index="51" value="1951"/>
+            <StringItem index="52" value="1952"/>
+            <StringItem index="53" value="1953"/>
+            <StringItem index="54" value="1954"/>
+            <StringItem index="55" value="1955"/>
+            <StringItem index="56" value="1956"/>
+            <StringItem index="57" value="1957"/>
+            <StringItem index="58" value="1958"/>
+            <StringItem index="59" value="1959"/>
+            <StringItem index="60" value="1960"/>
+            <StringItem index="61" value="1961"/>
+            <StringItem index="62" value="1962"/>
+            <StringItem index="63" value="1963"/>
+            <StringItem index="64" value="1964"/>
+            <StringItem index="65" value="1965"/>
+            <StringItem index="66" value="1966"/>
+            <StringItem index="67" value="1967"/>
+            <StringItem index="68" value="1968"/>
+            <StringItem index="69" value="1969"/>
+            <StringItem index="70" value="1970"/>
+            <StringItem index="71" value="1971"/>
+            <StringItem index="72" value="1972"/>
+            <StringItem index="73" value="1973"/>
+            <StringItem index="74" value="1974"/>
+            <StringItem index="75" value="1975"/>
+            <StringItem index="76" value="1976"/>
+            <StringItem index="77" value="1977"/>
+            <StringItem index="78" value="1978"/>
+            <StringItem index="79" value="1979"/>
+            <StringItem index="80" value="1980"/>
+            <StringItem index="81" value="1981"/>
+            <StringItem index="82" value="1982"/>
+            <StringItem index="83" value="1983"/>
+            <StringItem index="84" value="1984"/>
+            <StringItem index="85" value="1985"/>
+            <StringItem index="86" value="1986"/>
+            <StringItem index="87" value="1987"/>
+            <StringItem index="88" value="1988"/>
+            <StringItem index="89" value="1989"/>
+            <StringItem index="90" value="1990"/>
+            <StringItem index="91" value="1991"/>
+            <StringItem index="92" value="1992"/>
+            <StringItem index="93" value="1993"/>
+            <StringItem index="94" value="1994"/>
+            <StringItem index="95" value="1995"/>
+            <StringItem index="96" value="1996"/>
+            <StringItem index="97" value="1997"/>
+            <StringItem index="98" value="1998"/>
+            <StringItem index="99" value="1999"/>
+            <StringItem index="100" value="2000"/>
+            <StringItem index="101" value="2001"/>
+            <StringItem index="102" value="2002"/>
+            <StringItem index="103" value="2003"/>
+            <StringItem index="104" value="2004"/>
+            <StringItem index="105" value="2005"/>
+            <StringItem index="106" value="2006"/>
+            <StringItem index="107" value="2007"/>
+            <StringItem index="108" value="2008"/>
+            <StringItem index="109" value="2009"/>
+            <StringItem index="110" value="2010"/>
+            <StringItem index="111" value="2011"/>
+            <StringItem index="112" value="2012"/>
+            <StringItem index="113" value="2013"/>
+            <StringItem index="114" value="2014"/>
+            <StringItem index="115" value="2015"/>
+            <StringItem index="116" value="2016"/>
+            <StringItem index="117" value="2017"/>
+            <StringItem index="118" value="2018"/>
+            <StringItem index="119" value="2019"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ay">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                      <Component id="akademik5" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <Component id="akademik6" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="akademik4" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="akademik2" min="-2" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="soyad" alignment="1" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <Component id="akademik1" alignment="1" min="-2" pref="95" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="akademik3" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                                          <Component id="akademik7" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="soyad_bos1" alignment="1" pref="246" max="32767" attributes="0"/>
+                                  <Component id="ad_bos1" alignment="1" pref="246" max="32767" attributes="0"/>
+                                  <Component id="kimlikno" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="akademik8" max="32767" attributes="0"/>
+                                  <Component id="akademik9" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="gun1" min="-2" pref="71" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="ay1" min="-2" pref="69" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="yil1" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="baba1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="anne1" alignment="1" min="-2" pref="246" max="-2" attributes="0"/>
+                                  <Component id="ulke1" alignment="0" min="-2" pref="149" max="-2" attributes="0"/>
+                                  <Component id="telefon_bos1" alignment="0" min="-2" pref="246" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="akademik11" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="akademik12" min="-2" pref="107" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="0" pref="43" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="akademik10" min="-2" pref="135" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="akademik13" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="tarih" min="-2" pref="108" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lise1" pref="246" max="32767" attributes="0"/>
+                  <Component id="not_ortalama1" alignment="0" pref="246" max="32767" attributes="0"/>
+                  <Component id="bitirme1" pref="246" max="32767" attributes="0"/>
+                  <Component id="alan1" pref="246" max="32767" attributes="0"/>
+                  <Component id="yil2" min="-2" pref="86" max="-2" attributes="0"/>
+                  <Component id="bolum1" alignment="0" pref="246" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="220" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="464" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jLabel1" min="-2" pref="32" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="akademik1" min="-2" pref="34" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="soyad" min="-2" pref="34" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="akademik2" min="-2" pref="34" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="ad_bos1" min="-2" pref="33" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="soyad_bos1" min="-2" pref="33" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="kimlikno" min="-2" pref="28" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jButton1" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lise1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="akademik8" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="alan1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="akademik9" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="12" pref="125" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik11" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="bolum1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik10" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="bitirme1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik12" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="not_ortalama1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="144" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik3" alignment="3" max="32767" attributes="0"/>
+                          <Component id="ulke1" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik4" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                          <Component id="baba1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik6" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="anne1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik5" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="gun1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ay1" alignment="3" max="32767" attributes="0"/>
+                          <Component id="yil1" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="akademik7" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="telefon_bos1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="akademik13" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                          <Component id="yil2" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jButton2" min="-2" pref="42" max="-2" attributes="0"/>
+                  <Component id="tarih" min="-2" pref="38" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semibold" size="24" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="      ANDALUS &#xdc;N&#x130;VERS&#x130;TES&#x130;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" &#xdc;lke"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Telefon_No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" Baba ad&#x131; "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Dogum_tarihi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="soyad">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="  Soyadi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="  Anne ad&#x131;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="     AD"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="kimlik no/pasaport no"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="soyad_bos1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="soyad_bos1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ad_bos1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="ad_bos1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ulke1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="24">
+            <StringItem index="0" value="ABD"/>
+            <StringItem index="1" value="Afghanistan"/>
+            <StringItem index="2" value="Albania"/>
+            <StringItem index="3" value="Cezayir"/>
+            <StringItem index="4" value="Arjantin"/>
+            <StringItem index="5" value="Avustralya"/>
+            <StringItem index="6" value="Azerbeycan"/>
+            <StringItem index="7" value="Bel&#xe7;ika"/>
+            <StringItem index="8" value="Brezilya"/>
+            <StringItem index="9" value="&#xc7;in"/>
+            <StringItem index="10" value="Fransa"/>
+            <StringItem index="11" value="Isapniya"/>
+            <StringItem index="12" value="Almanya"/>
+            <StringItem index="13" value="Portekez"/>
+            <StringItem index="14" value="Yunanistan"/>
+            <StringItem index="15" value="Iran"/>
+            <StringItem index="16" value="Irak"/>
+            <StringItem index="17" value="Japonya"/>
+            <StringItem index="18" value="Meksika"/>
+            <StringItem index="19" value="Romanya"/>
+            <StringItem index="20" value="Suriye"/>
+            <StringItem index="21" value="Tunus"/>
+            <StringItem index="22" value="T&#xfc;rkiye"/>
+            <StringItem index="23" value="Veitnam"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="ulke1MouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ulke1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="baba1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="baba1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="anne1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="anne1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="telefon_bos1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="telefon_bos1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="gun1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="30">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+            <StringItem index="28" value="29"/>
+            <StringItem index="29" value="30"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="gun1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="yil1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="120">
+            <StringItem index="0" value="1900"/>
+            <StringItem index="1" value="1901"/>
+            <StringItem index="2" value="1902"/>
+            <StringItem index="3" value="1903"/>
+            <StringItem index="4" value="1904"/>
+            <StringItem index="5" value="1905"/>
+            <StringItem index="6" value="1906"/>
+            <StringItem index="7" value="1907"/>
+            <StringItem index="8" value="1908"/>
+            <StringItem index="9" value="1909"/>
+            <StringItem index="10" value="1910"/>
+            <StringItem index="11" value="1911"/>
+            <StringItem index="12" value="1912"/>
+            <StringItem index="13" value="1913"/>
+            <StringItem index="14" value="1914"/>
+            <StringItem index="15" value="1915"/>
+            <StringItem index="16" value="1916"/>
+            <StringItem index="17" value="1917"/>
+            <StringItem index="18" value="1918"/>
+            <StringItem index="19" value="1919"/>
+            <StringItem index="20" value="1920"/>
+            <StringItem index="21" value="1921"/>
+            <StringItem index="22" value="1922"/>
+            <StringItem index="23" value="1923"/>
+            <StringItem index="24" value="1924"/>
+            <StringItem index="25" value="1925"/>
+            <StringItem index="26" value="1926"/>
+            <StringItem index="27" value="1927"/>
+            <StringItem index="28" value="1928"/>
+            <StringItem index="29" value="1929"/>
+            <StringItem index="30" value="1930"/>
+            <StringItem index="31" value="1931"/>
+            <StringItem index="32" value="1932"/>
+            <StringItem index="33" value="1933"/>
+            <StringItem index="34" value="1934"/>
+            <StringItem index="35" value="1935"/>
+            <StringItem index="36" value="1936"/>
+            <StringItem index="37" value="1937"/>
+            <StringItem index="38" value="1938"/>
+            <StringItem index="39" value="1939"/>
+            <StringItem index="40" value="1940"/>
+            <StringItem index="41" value="1941"/>
+            <StringItem index="42" value="1942"/>
+            <StringItem index="43" value="1943"/>
+            <StringItem index="44" value="1944"/>
+            <StringItem index="45" value="1945"/>
+            <StringItem index="46" value="1946"/>
+            <StringItem index="47" value="1947"/>
+            <StringItem index="48" value="1948"/>
+            <StringItem index="49" value="1949"/>
+            <StringItem index="50" value="1950"/>
+            <StringItem index="51" value="1951"/>
+            <StringItem index="52" value="1952"/>
+            <StringItem index="53" value="1953"/>
+            <StringItem index="54" value="1954"/>
+            <StringItem index="55" value="1955"/>
+            <StringItem index="56" value="1956"/>
+            <StringItem index="57" value="1957"/>
+            <StringItem index="58" value="1958"/>
+            <StringItem index="59" value="1959"/>
+            <StringItem index="60" value="1960"/>
+            <StringItem index="61" value="1961"/>
+            <StringItem index="62" value="1962"/>
+            <StringItem index="63" value="1963"/>
+            <StringItem index="64" value="1964"/>
+            <StringItem index="65" value="1965"/>
+            <StringItem index="66" value="1966"/>
+            <StringItem index="67" value="1967"/>
+            <StringItem index="68" value="1968"/>
+            <StringItem index="69" value="1969"/>
+            <StringItem index="70" value="1970"/>
+            <StringItem index="71" value="1971"/>
+            <StringItem index="72" value="1972"/>
+            <StringItem index="73" value="1973"/>
+            <StringItem index="74" value="1974"/>
+            <StringItem index="75" value="1975"/>
+            <StringItem index="76" value="1976"/>
+            <StringItem index="77" value="1977"/>
+            <StringItem index="78" value="1978"/>
+            <StringItem index="79" value="1979"/>
+            <StringItem index="80" value="1980"/>
+            <StringItem index="81" value="1981"/>
+            <StringItem index="82" value="1982"/>
+            <StringItem index="83" value="1983"/>
+            <StringItem index="84" value="1984"/>
+            <StringItem index="85" value="1985"/>
+            <StringItem index="86" value="1986"/>
+            <StringItem index="87" value="1987"/>
+            <StringItem index="88" value="1988"/>
+            <StringItem index="89" value="1989"/>
+            <StringItem index="90" value="1990"/>
+            <StringItem index="91" value="1991"/>
+            <StringItem index="92" value="1992"/>
+            <StringItem index="93" value="1993"/>
+            <StringItem index="94" value="1994"/>
+            <StringItem index="95" value="1995"/>
+            <StringItem index="96" value="1996"/>
+            <StringItem index="97" value="1997"/>
+            <StringItem index="98" value="1998"/>
+            <StringItem index="99" value="1999"/>
+            <StringItem index="100" value="2000"/>
+            <StringItem index="101" value="2001"/>
+            <StringItem index="102" value="2002"/>
+            <StringItem index="103" value="2003"/>
+            <StringItem index="104" value="2004"/>
+            <StringItem index="105" value="2005"/>
+            <StringItem index="106" value="2006"/>
+            <StringItem index="107" value="2007"/>
+            <StringItem index="108" value="2008"/>
+            <StringItem index="109" value="2009"/>
+            <StringItem index="110" value="2010"/>
+            <StringItem index="111" value="2011"/>
+            <StringItem index="112" value="2012"/>
+            <StringItem index="113" value="2013"/>
+            <StringItem index="114" value="2014"/>
+            <StringItem index="115" value="2015"/>
+            <StringItem index="116" value="2016"/>
+            <StringItem index="117" value="2017"/>
+            <StringItem index="118" value="2018"/>
+            <StringItem index="119" value="2019"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="yil1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ay1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="ay1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Lise adi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="lisedeki alan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Lise bitirme tarihi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Not Ortalamasi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik12">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B&#xf6;l&#xfc;m"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="akademik13">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Emoji" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="kay&#x131;t y&#x131;l&#x131;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="lise1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lise1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="bitirme1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="bitirme1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="not_ortalama1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="not_ortalama1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="bolum1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="bolum1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="alan1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="alan1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="yil2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Symbol" size="18" style="1"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="120">
+            <StringItem index="0" value="1900"/>
+            <StringItem index="1" value="1901"/>
+            <StringItem index="2" value="1902"/>
+            <StringItem index="3" value="1903"/>
+            <StringItem index="4" value="1904"/>
+            <StringItem index="5" value="1905"/>
+            <StringItem index="6" value="1906"/>
+            <StringItem index="7" value="1907"/>
+            <StringItem index="8" value="1908"/>
+            <StringItem index="9" value="1909"/>
+            <StringItem index="10" value="1910"/>
+            <StringItem index="11" value="1911"/>
+            <StringItem index="12" value="1912"/>
+            <StringItem index="13" value="1913"/>
+            <StringItem index="14" value="1914"/>
+            <StringItem index="15" value="1915"/>
+            <StringItem index="16" value="1916"/>
+            <StringItem index="17" value="1917"/>
+            <StringItem index="18" value="1918"/>
+            <StringItem index="19" value="1919"/>
+            <StringItem index="20" value="1920"/>
+            <StringItem index="21" value="1921"/>
+            <StringItem index="22" value="1922"/>
+            <StringItem index="23" value="1923"/>
+            <StringItem index="24" value="1924"/>
+            <StringItem index="25" value="1925"/>
+            <StringItem index="26" value="1926"/>
+            <StringItem index="27" value="1927"/>
+            <StringItem index="28" value="1928"/>
+            <StringItem index="29" value="1929"/>
+            <StringItem index="30" value="1930"/>
+            <StringItem index="31" value="1931"/>
+            <StringItem index="32" value="1932"/>
+            <StringItem index="33" value="1933"/>
+            <StringItem index="34" value="1934"/>
+            <StringItem index="35" value="1935"/>
+            <StringItem index="36" value="1936"/>
+            <StringItem index="37" value="1937"/>
+            <StringItem index="38" value="1938"/>
+            <StringItem index="39" value="1939"/>
+            <StringItem index="40" value="1940"/>
+            <StringItem index="41" value="1941"/>
+            <StringItem index="42" value="1942"/>
+            <StringItem index="43" value="1943"/>
+            <StringItem index="44" value="1944"/>
+            <StringItem index="45" value="1945"/>
+            <StringItem index="46" value="1946"/>
+            <StringItem index="47" value="1947"/>
+            <StringItem index="48" value="1948"/>
+            <StringItem index="49" value="1949"/>
+            <StringItem index="50" value="1950"/>
+            <StringItem index="51" value="1951"/>
+            <StringItem index="52" value="1952"/>
+            <StringItem index="53" value="1953"/>
+            <StringItem index="54" value="1954"/>
+            <StringItem index="55" value="1955"/>
+            <StringItem index="56" value="1956"/>
+            <StringItem index="57" value="1957"/>
+            <StringItem index="58" value="1958"/>
+            <StringItem index="59" value="1959"/>
+            <StringItem index="60" value="1960"/>
+            <StringItem index="61" value="1961"/>
+            <StringItem index="62" value="1962"/>
+            <StringItem index="63" value="1963"/>
+            <StringItem index="64" value="1964"/>
+            <StringItem index="65" value="1965"/>
+            <StringItem index="66" value="1966"/>
+            <StringItem index="67" value="1967"/>
+            <StringItem index="68" value="1968"/>
+            <StringItem index="69" value="1969"/>
+            <StringItem index="70" value="1970"/>
+            <StringItem index="71" value="1971"/>
+            <StringItem index="72" value="1972"/>
+            <StringItem index="73" value="1973"/>
+            <StringItem index="74" value="1974"/>
+            <StringItem index="75" value="1975"/>
+            <StringItem index="76" value="1976"/>
+            <StringItem index="77" value="1977"/>
+            <StringItem index="78" value="1978"/>
+            <StringItem index="79" value="1979"/>
+            <StringItem index="80" value="1980"/>
+            <StringItem index="81" value="1981"/>
+            <StringItem index="82" value="1982"/>
+            <StringItem index="83" value="1983"/>
+            <StringItem index="84" value="1984"/>
+            <StringItem index="85" value="1985"/>
+            <StringItem index="86" value="1986"/>
+            <StringItem index="87" value="1987"/>
+            <StringItem index="88" value="1988"/>
+            <StringItem index="89" value="1989"/>
+            <StringItem index="90" value="1990"/>
+            <StringItem index="91" value="1991"/>
+            <StringItem index="92" value="1992"/>
+            <StringItem index="93" value="1993"/>
+            <StringItem index="94" value="1994"/>
+            <StringItem index="95" value="1995"/>
+            <StringItem index="96" value="1996"/>
+            <StringItem index="97" value="1997"/>
+            <StringItem index="98" value="1998"/>
+            <StringItem index="99" value="1999"/>
+            <StringItem index="100" value="2000"/>
+            <StringItem index="101" value="2001"/>
+            <StringItem index="102" value="2002"/>
+            <StringItem index="103" value="2003"/>
+            <StringItem index="104" value="2004"/>
+            <StringItem index="105" value="2005"/>
+            <StringItem index="106" value="2006"/>
+            <StringItem index="107" value="2007"/>
+            <StringItem index="108" value="2008"/>
+            <StringItem index="109" value="2009"/>
+            <StringItem index="110" value="2010"/>
+            <StringItem index="111" value="2011"/>
+            <StringItem index="112" value="2012"/>
+            <StringItem index="113" value="2013"/>
+            <StringItem index="114" value="2014"/>
+            <StringItem index="115" value="2015"/>
+            <StringItem index="116" value="2016"/>
+            <StringItem index="117" value="2017"/>
+            <StringItem index="118" value="2018"/>
+            <StringItem index="119" value="2019"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="yil2MouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="yil2ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="11" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="bilgileri g&#xf6;ster"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="kayid et"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="kimlikno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="tarih">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
